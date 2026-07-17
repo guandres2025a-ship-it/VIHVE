@@ -1,4 +1,4 @@
-# Vive+
+# VIHVE+
 
 VIHVE+ es una aplicacion pensada para personas que viven con VIH, brindando apoyo emocional, recordatorios de medicación, chat comunitario anónimo y estadísticas de adherencia.
 
