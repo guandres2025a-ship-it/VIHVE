@@ -1,6 +1,6 @@
 # Vive+
 
-Vive+ es una SPA (Single Page Application) pensada para personas que viven con VIH, brindando apoyo emocional, recordatorios de medicación, chat comunitario anónimo y estadísticas de adherencia.
+VIHVE+ es una aplicacion pensada para personas que viven con VIH, brindando apoyo emocional, recordatorios de medicación, chat comunitario anónimo y estadísticas de adherencia.
 
 ## Características principales
 - Registro anónimo (alias y contraseña, sin datos sensibles)
